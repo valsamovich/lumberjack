@@ -26,5 +26,3 @@ Example of the response:
       [GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
       Welcome to lumberjack! Thank's for using!
       [INFO] -------------------------------------------------------------------------
-      
-# For 
