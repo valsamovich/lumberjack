@@ -1,2 +1,2 @@
 # lumberjack
-Simple logging library with visual tags 
+Simple logging library with visual tags
