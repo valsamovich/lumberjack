@@ -1,5 +1,5 @@
 # lumberjack [![PyPI version](https://badge.fury.io/py/lumberjack.svg)](https://badge.fury.io/py/lumberjack) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
-Simple logging library with visual tags
+Simple logging library with visual tags and style.
 
 ## Installation
 To install lumberjack, simply:
