@@ -2,11 +2,12 @@
 Simple logging library with visual tags and style.
 
 ## Installation
+
 To install lumberjack, simply:
 
       pip istall lumberjack
 
-## Example 
+## Run
 
 Switch to python: `$ python` and run:
 
@@ -26,3 +27,7 @@ Example of the response:
       [GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
       Welcome to lumberjack! Thank's for using!
       [INFO] -------------------------------------------------------------------------
+
+## Contribution
+
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a fork, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
