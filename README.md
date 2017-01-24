@@ -14,7 +14,7 @@ Switch to python: `$ python` and run:
       >>> from lumberjack import Camp
       >>> Camp.welcome_message()
 
-Example of the response:
+Example of the **response**:
 
                              ____        _   _                                        
                             |  _ \ _   _| |_| |__   ___  _ __                         
